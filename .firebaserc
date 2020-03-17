@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "roco-8b1a4": {
+      "hosting": {
+        "uploadfirebase": [
+          "roco-8b1a4"
+        ]
+      }
+    }
+  }
+}
